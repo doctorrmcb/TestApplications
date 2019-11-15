@@ -51,5 +51,6 @@ hs_err_pid*
 
 #application.properties
 **/application.properties
+SpringSecurityTest/src/main/resources/application.properties
 
 #This is how you add to your gitignore file
