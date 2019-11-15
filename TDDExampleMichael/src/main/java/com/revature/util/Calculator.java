@@ -1,0 +1,15 @@
+package com.revature.util;
+
+public interface Calculator<T extends Number> {
+	public T add(T a, T b);
+
+	public T sub(T a, T b);
+
+	public T mult(T a, T b);
+
+	public T div(T a, T b);
+
+	public T sqrt(T a, T c);
+
+	public T pow(T a, T b);
+}
